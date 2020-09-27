@@ -1,0 +1,16 @@
+[
+  {
+    "name": "process",
+    "path": "/process",
+    "component": "D:\\\\Documents\\\\_projects\\\\_code\\\\sf-nxt\\\\pages\\\\process.vue",
+    "chunkName": "pages/process",
+    "_name": "_5794059c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Documents\\\\_projects\\\\_code\\\\sf-nxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_01d30cd5"
+  }
+]
